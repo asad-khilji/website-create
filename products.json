@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": "$19.99",
+        "description": "Description of Product 1.",
+        "image": "https://unikinternational.com/cdn/shop/files/Unik667307a2c6d3c3667307a2c6fe7.32643371667307a2c6fe7_8aea650d-7b56-45d7-b37c-b21fb65f0073.jpg?v=1724949403&width=886",
+        "category": "Mens Leather Jacket"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": "$29.99",
+        "description": "Description of Product 2.",
+        "image": "https://unikinternational.com/cdn/shop/files/Unik667307a2c6d3c3667307a2c6fe7.32643371667307a2c6fe7_8aea650d-7b56-45d7-b37c-b21fb65f0073.jpg?v=1724949403&width=886",
+        "category": "Ladies Leather Jacket"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": "$39.99",
+        "description": "Description of Product 3.",
+        "image": "https://unikinternational.com/cdn/shop/files/Unik667307a2c6d3c3667307a2c6fe7.32643371667307a2c6fe7_8aea650d-7b56-45d7-b37c-b21fb65f0073.jpg?v=1724949403&width=886",
+        "category": "Mens Leather Vests"
+    }
+]

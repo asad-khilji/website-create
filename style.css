@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+#categories-container,
+#product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1250px;
+    margin: auto;
+}
+
+.category, .product {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 200px;
+}
+
+.product img, .category img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
